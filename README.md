@@ -14,7 +14,6 @@ curl --location 'http://localhost:8881/kafka-client/api/event' \
 --header 'topic: your-topic-here' \
 --header 'Content-Type: application/json' \
 --data '{
-    //your raw data here
-}
+    // your raw data here
 }'
 ```
